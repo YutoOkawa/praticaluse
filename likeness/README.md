@@ -3,4 +3,4 @@
 
 # 進捗
 - [x] naming
-- [ ] var
+- [x] usevar
