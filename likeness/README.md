@@ -5,3 +5,4 @@
 - [x] naming
 - [x] usevar
 - [x] tryiota
+- [x] tryerror
