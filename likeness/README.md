@@ -7,3 +7,4 @@
 - [x] tryiota
 - [x] tryerror
 - [x] optionargs
+- [x] control
