@@ -6,3 +6,4 @@
 - [x] usevar
 - [x] tryiota
 - [x] tryerror
+- [x] optionargs
