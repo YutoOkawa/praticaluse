@@ -8,3 +8,4 @@
 - [x] tryerror
 - [x] optionargs
 - [x] control
+- [x] memory
