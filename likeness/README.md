@@ -10,3 +10,4 @@
 - [x] control
 - [x] memory
 - [x] combine
+- [x] timeDuration
