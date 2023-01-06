@@ -4,3 +4,4 @@
 # 進捗
 - [x] basic
 - [x] instance
+- [x] method
