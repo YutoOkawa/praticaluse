@@ -1,8 +1,8 @@
 # praticaluse
 実用Go言語を勉強しながらアウトプットのためコードを書いていきます
 # 進捗
-- [ ] likeness
-- [ ] definedtype
+- [x] likeness
+- [x] definedtype
 - [ ] struct
 - [ ] interface
 - [ ] errorhandling
