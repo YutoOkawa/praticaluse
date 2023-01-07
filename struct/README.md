@@ -8,3 +8,4 @@
 - [x] embed
 - [ ] tags
 - [x] empty
+- [x] memory
