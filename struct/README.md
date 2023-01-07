@@ -5,3 +5,4 @@
 - [x] basic
 - [x] instance
 - [x] method
+- [x] embed
